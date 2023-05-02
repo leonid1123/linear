@@ -1,0 +1,11 @@
+D:\repos\LenearInterp\LenaerInterp\bin\Debug\LenaerInterp.exe.config
+D:\repos\LenearInterp\LenaerInterp\bin\Debug\LenaerInterp.exe
+D:\repos\LenearInterp\LenaerInterp\bin\Debug\LenaerInterp.pdb
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.csproj.AssemblyReference.cache
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.csproj.SuggestedBindingRedirects.cache
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.Form1.resources
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.Properties.Resources.resources
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.csproj.GenerateResource.cache
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.csproj.CoreCompileInputs.cache
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.exe
+D:\repos\LenearInterp\LenaerInterp\obj\Debug\LenaerInterp.pdb
